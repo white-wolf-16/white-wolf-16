@@ -42,6 +42,7 @@ I'm a passionate **Software Engineer** with a love for game development, artific
 ### 📫 How to reach me:
 - Email: 16.badhan@gmail.com
 - LinkedIn: [Badhan Dey](https://www.linkedin.com)
+- Website: [Portfolio]https://www.sfu.ca/~bdey/r/index.html
 
 ### 😄 Pronouns:
 - He/Him
